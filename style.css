@@ -1,0 +1,47 @@
+body{
+  background-color: #EEF3F7;
+  font-family: Verdana, sans-serif;
+  line-height: 1.5em;
+}
+header{
+  padding: 0.1em 0;
+  background-color: #F8FAFB;
+  margin: 2em auto;
+}
+div.main{
+  margin: 2em auto;
+  max-width: 55em;
+}
+footer{
+  margin: 2em auto;
+  max-width: 55em;
+}
+h1{
+  text-align: center;
+  font-family: Segoe Print;
+  font-weight: normal;
+  font-size: 2em;
+  color: darkred;
+}
+h2{
+  font-family: Segoe Print;
+  font-weight: normal;
+}
+h3{
+  font-family: Segoe Print;
+  font-weight: normal;
+}
+table.top td{
+  vertical-align: top;
+}
+table.sep td{
+  padding-right: 2em;
+}
+a:link, a:visited{
+  cursor: pointer;
+  color: #0000FF;
+  text-decoration: none;
+}
+a:hover, a:active, a:focus{
+  text-decoration: underline;
+}
